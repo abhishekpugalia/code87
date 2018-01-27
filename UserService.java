@@ -7,6 +7,7 @@ import util.Jdbcutil;
 import to.To;
 public class UserService {
 	//hi
+	//hello
    public List<String> getcustomers() {
 	   Connection con=null;      ResultSet rs=null;
 	   int x=1;   PreparedStatement ps=null;
