@@ -6,6 +6,7 @@ import java.util.List;
 import util.Jdbcutil;
 import to.To;
 public class UserService {
+	//hi
    public List<String> getcustomers() {
 	   Connection con=null;      ResultSet rs=null;
 	   int x=1;   PreparedStatement ps=null;
